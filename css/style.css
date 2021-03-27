@@ -72,16 +72,23 @@ p {
 
 .lol {
     color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
 
 .profile {
     margin: 40px auto 40px auto;
 }
 
-.footer-link {
+a {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.25rem;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
 }
 
 .bottom-cloud {
